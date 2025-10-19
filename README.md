@@ -3,7 +3,8 @@
 Repositório criado para registrar minha jornada de aprendizado em **Git e GitHub**.  
 Aqui compartilho anotações, que fiz duranto o curso com Gustavo Guanabara.
 
-Um agradecimento especial ao **Curso em Vídeo** e ao professor **Gustavo Guanabara** por disponibilizarem gratuitamente um conteúdo tão valioso e acessível. 🙏  
+Um agradecimento especial ao **Curso em Vídeo** e ao professor **Gustavo Guanabara** por disponibilizarem gratuitamente um conteúdo tão valioso e acessível. 🙏
+[Acesso ao curso](https://www.cursoemvideo.com/curso/curso-de-git-e-github/)
 
 ---
 
